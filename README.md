@@ -17,7 +17,7 @@ A **Pet Shop Simples API Spring Boot** permite:
 
 ## 🛠️ Tecnologias Utilizadas  
 
-- **Java 17**  
+- **Java 21**  
 - **Spring Boot 3**  
 - **Spring Data JPA**  
 - **H2 Database** (banco de dados em memória)  
